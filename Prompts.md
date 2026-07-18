@@ -13,9 +13,10 @@ Crie materiais complementares para “Células e organelas: conhecendo a unidade
 - **1 atividade prática em grupo** (20–30 min), com objetivo, passos, materiais simples (massinha de modelar e sulfite) e critérios de sucesso. Em cada item criado por você, inclua **[Assistido por IA]** e, quando pertinente, um alerta **ético/autorais** (ex.: evitar uso de imagens com licença restrita).
 
 ## Prompt 4 - ChatGPT: Personalização para 2 perfis de alunos
-Para a mesma aula **“Células e organelas: conhecendo a unidade básica da vida”, 6º ano, 50 min, 32 alunos**, proponha **adaptações concretas** para **dois perfis**:
-• **Perfil A: estudante com dificuldades de leitura** (linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional).
-• **Perfil B: estudante com alto interesse/avançado** (desafios de extensão, problemas contextualizados, conexão com frações equivalentes e simplificação). Para cada perfil, entregue: **objetivos ajustados, instruções diferenciadas, recursos, avaliação adaptada, evidências de aprendizagem** e observações de tempo/carga. Marque itens propostos pela IA com **[Assistido por IA]**.
+Para a mesma aula **“Células e organelas: conhecendo a unidade básica da vida”, 6º ano, 50 min, 32 alunos**, proponha **adaptações concretas** para **dois perfis**:  
+• **Perfil A: estudante com dificuldades de leitura** (linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional).  
+• **Perfil B: estudante com alto interesse/avançado** (desafios de extensão, problemas contextualizados, conexão com frações equivalentes e simplificação). Para cada perfil, entregue: **objetivos ajustados, instruções diferenciadas, recursos, avaliação adaptada, evidências de aprendizagem** e observações de tempo/carga.  
+Marque itens propostos pela IA com **[Assistido por IA]**.
 
 ## Prompt 5 - Microsoft Copilot: Criação de apresentação no PowerPoint
 Leia o plano de aula anexado e gere uma apresentação .pptx para o tema “Células e organelas: conhecendo a unidade básica da vida” (Ciências, 6º ano).
