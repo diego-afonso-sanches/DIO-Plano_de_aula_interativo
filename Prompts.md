@@ -31,17 +31,17 @@ Gere um **README.md** para o repositório **DIO-Plano_de_aula_interativo** (desa
 - **Checklist de envio e créditos**. Ao final do README, gere também uma **reflexão crítica** (400–600 palavras) sobre o uso de IA neste projeto (ferramentas, ética/privacidade, ganhos de tempo, personalização, lições aprendidas). Marque trechos gerados por IA com **[Assistido por IA]**.
 
 ## Prompt 7 - ChatGPT: Auditoria de ética/privacidade e checklist final
-Faça uma **auditoria ética** do projeto “Células e organelas: conhecendo a unidade básica da vida, 6º ano” (disponível em: diego-afonso-sanches/DIO-Plano_de_aula_interativo): 
-• riscos de **dados pessoais** e estratégias de **anonimização**; 
-• **direitos autorais** (necessidade de citação/licença); 
-• **vieses** possíveis em exemplos/atividades e alternativas; 
-• registro claro de **transparência**: onde a IA foi usada e qual foi a revisão humana. 
+Faça uma **auditoria ética** do projeto “Células e organelas: conhecendo a unidade básica da vida, 6º ano” (disponível em: diego-afonso-sanches/DIO-Plano_de_aula_interativo):  
+• riscos de **dados pessoais** e estratégias de **anonimização**;  
+• **direitos autorais** (necessidade de citação/licença);  
+• **vieses** possíveis em exemplos/atividades e alternativas;  
+• registro claro de **transparência**: onde a IA foi usada e qual foi a revisão humana.  
 Em seguida, entregue um **checklist final marcável** confirmando: 
-- [] Plano completo com seções e **[Assistido por IA]** sinalizado 
-- [] Materiais (textos, exercício, atividade) prontos 
-- [] Adaptação para **2 perfis** implementada 
-- [] **Tradução** de trecho (Inglês CEFR A2) incluída 
-- [] Apresentação `.pptx` gerada 
-- [] **README.md** com links e **reflexão** adicionados 
-- [] Nomes de arquivos corretos: `Plano_de_Aula_IA.docx`, `Apresentacao_Aula_IA.pptx`, `Reflexao_IA.docx` 
-- [] Conformidade com **privacidade/autoria** e rubrica incluída
+- [ ] Plano completo com seções e **[Assistido por IA]** sinalizado 
+- [ ] Materiais (textos, exercício, atividade) prontos 
+- [ ] Adaptação para **2 perfis** implementada 
+- [ ] **Tradução** de trecho (Inglês CEFR A2) incluída 
+- [ ] Apresentação `.pptx` gerada 
+- [ ] **README.md** com links e **reflexão** adicionados 
+- [ ] Nomes de arquivos corretos: `Plano_de_Aula_IA.docx`, `Apresentacao_Aula_IA.pptx`, `Reflexao_IA.docx` 
+- [ ] Conformidade com **privacidade/autoria** e rubrica incluída
