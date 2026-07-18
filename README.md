@@ -1,4 +1,4 @@
-# DIO-Plano_de_aula_interativo
+# DIO - Plano de aula interativo de Ciências (6º ano)
 
 ## Descrição
 
@@ -12,15 +12,11 @@ O tema escolhido é **"Células e organelas: conhecendo a unidade básica da vid
 
 ## Contexto
 
-[Assistido por IA]
-
-A proposta aborda a introdução ao conceito de célula, suas principais organelas e suas funções, utilizando linguagem adequada ao 6º ano, atividades colaborativas e recursos digitais para tornar a aprendizagem mais significativa.
+[Assistido por IA] A proposta aborda a introdução ao conceito de célula, suas principais organelas e suas funções, utilizando linguagem adequada ao 6º ano, atividades colaborativas e recursos digitais para tornar a aprendizagem mais significativa.
 
 ## Objetivos
 
-[Assistido por IA]
-
-Ao final da aula, espera-se que o estudante seja capaz de:
+[Assistido por IA] Ao final da aula, espera-se que o estudante seja capaz de:
 
 - identificar a célula como unidade básica dos seres vivos;
 - diferenciar células animais e vegetais;
@@ -29,9 +25,7 @@ Ao final da aula, espera-se que o estudante seja capaz de:
 
 ## Metodologia
 
-[Assistido por IA]
-
-A aula utiliza:
+[Assistido por IA] A aula utiliza:
 
 - exposição dialogada;
 - imagens ilustrativas;
@@ -42,9 +36,7 @@ A aula utiliza:
 
 ## Avaliação
 
-[Assistido por IA]
-
-A aprendizagem é acompanhada por meio de:
+[Assistido por IA] A aprendizagem é acompanhada por meio de:
 
 - observação durante as atividades;
 - participação dos estudantes;
@@ -58,9 +50,7 @@ A aprendizagem é acompanhada por meio de:
 
 ## ChatGPT
 
-[Assistido por IA]
-
-Utilizado para:
+[Assistido por IA] Utilizado para:
 
 - estruturar o plano de aula;
 - adaptar a linguagem para o público do 6º ano;
@@ -74,9 +64,7 @@ Utilizado para:
 
 ## GitHub Copilot
 
-[Assistido por IA]
-
-Utilizado como apoio para:
+[Assistido por IA] Utilizado como apoio para:
 
 - organização do projeto;
 - revisão de trechos em Markdown;
@@ -104,9 +92,7 @@ Utilizado para:
 
 ## Perfil A — Estudantes que necessitam de apoio
 
-[Assistido por IA]
-
-Inclui:
+[Assistido por IA] Inclui:
 
 - linguagem simplificada;
 - apoio visual;
@@ -117,9 +103,7 @@ Inclui:
 
 ## Perfil B — Estudantes com maior interesse ou desempenho avançado
 
-[Assistido por IA]
-
-Inclui:
+[Assistido por IA] Inclui:
 
 - desafios extras;
 - comparações entre células;
@@ -137,9 +121,7 @@ Português (Brasil)
 
 ## Tradução
 
-[Assistido por IA]
-
-O projeto contém um trecho traduzido para **Inglês (CEFR A2)**, permitindo seu uso em contextos bilíngues ou em atividades de apoio ao ensino de Língua Inglesa.
+[Assistido por IA] O projeto contém um trecho traduzido para **Inglês (CEFR A2)**, permitindo seu uso em contextos bilíngues ou em atividades de apoio ao ensino de Língua Inglesa.
 
 ### Como utilizar
 
